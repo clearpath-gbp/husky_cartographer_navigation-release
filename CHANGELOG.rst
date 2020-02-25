@@ -2,6 +2,12 @@
 Changelog for package husky_cartographer_navigation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.2 (2020-02-25)
+------------------
+* Updated to package.xml format 2.
+* Added husky_navigation as run dep.
+* Contributors: Tony Baltovski
+
 0.0.1 (2020-02-20)
 ------------------
 * Updated maintainer.
